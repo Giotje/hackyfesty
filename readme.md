@@ -1,60 +1,23 @@
 
-Copypasta
+Core-based trees
 From Wikipedia, the free encyclopedia
 Jump to navigation
 Jump to search
 
-A copypasta is a block of text which is copied and pasted across the Internet by individuals through online forums and social networking websites. Copypastas are said to be similar to spam.[1]
-Contents
-
-    1 History
-        1.1 Etymology
-    2 Notable examples
-        2.1 Navy Seal
-        2.2 Bee Movie
-    3 See also
-    4 References
-
-History
-
-The word "copypasta" was first used on Usenet groups in 2006.[2]
-Etymology
-
-The term "copypasta" is derived from the computer term "copy/paste", and can be traced back to an anonymous 4chan imageboard from 2006.[1][3]
-Notable examples
-Navy Seal
-
-The Navy Seal copypasta is a lengthy, comically written, aggressive attack paragraph against a "kiddo", written in the voice of the stereotypical "tough guy", listing absurd accomplishments such as having "over 300 confirmed kills" and being "trained in gorilla [sic] warfare". This copypasta is often reposted as a humorous overreaction to an insult and is thought to have originated in a post on a 4chan message board from 11 November 2010.[4]
-
-This copypasta is infamously used on Brenton Tarrant's manifesto, The Great Replacement, which started the Christchurch mosque shootings.[5]
-Bee Movie
-Main article: Bee Movie § Internet popularity
-
-The Bee Movie copypasta dates back to 2013 where users would post the entire script of the Bee Movie onto websites such as Reddit and Tumblr.[6] This was popularised around the time when edits of the film were first being posted and popularized on YouTube in late 2016.[7]
-See also
-	Look up copypasta in Wiktionary, the free dictionary.
-
-    Creepypasta, brief, user-generated, paranormal stories intended to scare readers
-    Faxlore, similar content circulated by fax machine
-    Know Your Meme, a website and video series which researches and documents the history of Copypastas and similar content
-    Running gag, a recurring joke
-    Snowclone, a cliché and phrasal template that can be used and recognized in multiple variants
-    Shitposting, the practice of posting intentionally low-quality or provocative content to troll or solicit reactions from others
-
+Core-based trees (CBT) is a proposal for making IP Multicast scalable by constructing a tree of routers. It was first proposed in a paper by Ballardie, Francis, and Crowcroft. What differentiates it from other schemes for multicasting is that the routing tree comprises multiple "cores" (also known as "centres"). The locations of the core routers are statically configured. Other routers are added by growing "branches" of a tree, comprising a chain of routers, from the core routers out towards the routers directly adjacent to the multicast group members.
 References
 
-"What is Copypasta? - Definition from Techopedia". Techopedia.com. Retrieved 30 December 2018.
-"Words We're Watching: 'Copypasta'". Merriam-Webster. Retrieved 30 December 2018.
-Jaquez, Sophia (12 December 2018). "My Favorite CopyPastas". The County Current. Retrieved 30 December 2018.
-"What Does Navy Seal copypasta Mean?". Dictionary.com. Archived from the original on 26 October 2018.
-https://www.rightminds.nz/articles/the-honk-pill-troll-killer-brenton-tarrants-motives-may-never-be-known-if-were-not-careful
-Bergado, Gabe. "How Barry B. Benson Became an Internet A-Lister". Inverse. Retrieved 30 December 2018.
+    A. J. Ballardie; P. F. Francis; J. Crowcroft (August 1993). "Core Based Trees". ACM SIGCOMM Computer Communication Review. 23 (4): 85–95. doi:10.1145/167954.166246.
+    RFC 2189
+    Atul Vadera. "Core Based Trees (CBT)". SCAMP: SCAlable Multicast Protocol for Communication in Large Groups. Archived from the original on 2005-12-01. Retrieved 2005-12-14.
 
-    "The Best Prank on Facebook Right Now Involves the Entire Transcript of Bee Movie". Intelligencer. 2 December 2015. Retrieved 30 December 2018.
 
+Stub icon	
+
+This computer networking article is a stub. You can help Wikipedia by expanding it.
 Categories:
 
-    Internet memesInternet manipulation and propaganda2006 neologismsInternet culture
+    Network architectureComputer network stubs
 
 Navigation menu
 
@@ -106,16 +69,9 @@ Print/export
 
 Languages
 
-    Español
-    Français
-    Italiano
-    עברית
-    Polski
-    Português
+Add links
 
-Edit links
-
-    This page was last edited on 27 September 2021, at 14:02 (UTC).
+    This page was last edited on 17 September 2019, at 03:31 (UTC).
     Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
 
     Privacy policy
