@@ -1,1 +1,3 @@
-hallo
+hal
+
+eduroam is kut lmao
